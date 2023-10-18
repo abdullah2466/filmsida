@@ -1,0 +1,19 @@
+body {
+    color: beige;
+    background-color: black;
+    font-family: Verdana,  sans-serif;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 1.7rem;
+}
+
+.poster {
+    width: auto;
+    height: 50vh;
+}
+
+p{
+    font-size: 1.2rem;
+}
